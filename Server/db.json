@@ -1,0 +1,11 @@
+{
+    "alerts": {
+        "temperature": false,
+        "oxygen": true,
+        "humidity": false,
+        "light": false,
+        "noise": false
+    },
+    "progress": 50,
+    "expression": "happy"
+}
